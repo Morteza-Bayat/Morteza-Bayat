@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Morteza-Bayat
+- 👀 I’m interested in python and machine learning and Deep learning.
+- 🌱 I’m currently learning LSTM and GAN.
+- 💞️ Intersts:Cross fit excersise ,outdoor sports, hiking.
